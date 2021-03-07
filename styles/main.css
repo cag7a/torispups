@@ -24,8 +24,8 @@ header h2 {
 .services {
     padding: 5px;
     background-color: #fad424;
-    width: max-content;
-    max-width: 80%;
+    width: fit-content;
+    max-width: ;
     margin:auto;
     margin-top: 1%;
     margin-bottom: 1%;
