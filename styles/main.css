@@ -24,12 +24,12 @@ header h2 {
 .services {
     padding: 5px;
     background-color: #fad424;
-    width: 280px;
+    width: 350px;
 
     margin:auto;
     margin-top: 1%;
     margin-bottom: 1%;
-    font-size: x-large;
+    font-size: 24pt;
 }
 
 .services h3{
