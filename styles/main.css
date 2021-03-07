@@ -1,0 +1,101 @@
+body {
+    background-color: #fc9e00;
+}
+
+header {
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+    margin: 0px;
+}
+header h1 {
+    margin: 0px;
+}
+header h2 {
+    margin: 0px;
+    margin-bottom: 50px;
+}
+
+.services h3{
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: stretch;
+}
+
+
+.services {
+    padding: 5px;
+    background-color: #fad424;
+    align-self: center;
+    margin-right: 5px;
+    font-size: small;
+
+    flex-shrink: 0;
+    flex-basis: max-content;
+    flex-grow: 5;
+}
+
+.about {
+    font-size: small;
+}
+
+table {
+    border: 2px solid black;
+    margin: 10px;
+    margin-top: 25px;
+}
+
+th {
+    border-bottom: 2px solid black;
+}
+
+.table_alt1 td{
+    background-color: #fad424;
+}
+
+.about h3 {
+    margin: 0;
+    text-align: center;
+}
+
+.vert_col {
+    border-right: 2px solid black;
+}
+
+.center_cell {
+    text-align: center;
+}
+
+h3 {
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+th {
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.fine {
+    font-size: x-small;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.ico {
+    width: 25px;
+    vertical-align: middle;
+}
+
+.contact {
+    font-size: x-small;
+    text-align: center;
+}
