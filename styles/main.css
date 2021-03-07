@@ -24,7 +24,7 @@ header h2 {
 .services {
     padding: 5px;
     background-color: #fad424;
-    width: 350px;
+    width: 400px;
 
     margin:auto;
     margin-top: 1%;
@@ -43,7 +43,7 @@ header h2 {
 }
 
 .about {
-    font-size: small;
+    font-size: large;
 }
 
 table {
