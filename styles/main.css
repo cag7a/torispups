@@ -24,7 +24,7 @@ header h2 {
 .services {
     padding: 5px;
     background-color: #fad424;
-    width: 400px;
+    width: 420px;
 
     margin:auto;
     margin-top: 1%;
@@ -48,6 +48,7 @@ header h2 {
 
 table {
     border: 2px solid black;
+    font-size: 24pt;
     margin: 10px;
     margin-top: 25px;
 }
