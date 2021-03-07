@@ -1,5 +1,5 @@
 body {
-    background-color: #fc9e00;
+    background-color: #de97f7;
 }
 
 header {
@@ -23,7 +23,7 @@ header h2 {
 
 .services {
     padding: 5px;
-    background-color: #fad424;
+    background-color: #ffbff2;
     width: 420px;
 
     margin:auto;
@@ -58,7 +58,7 @@ th {
 }
 
 .table_alt1 td{
-    background-color: #fad424;
+    background-color: #ffbff2;
 }
 
 .about h3 {
