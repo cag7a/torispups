@@ -5,6 +5,7 @@ body {
 header {
     text-align: center;
     font-family: 'RocknRoll One', sans-serif;
+    font-size: 50pt;
     margin: 0px;
 }
 header h1 {
@@ -78,7 +79,7 @@ th {
 }
 
 .fine {
-    font-size: x-small;
+    font-size: small;
     width: 50%;
     text-align: center;
     margin-left: auto;
@@ -96,6 +97,6 @@ a {
 }
 
 .contact {
-    font-size: x-small;
+    font-size: small;
     text-align: center;
 }
